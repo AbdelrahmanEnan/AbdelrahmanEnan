@@ -25,9 +25,6 @@ Installation
 -->
 # Abdelrahman Enan
 **Mechanical Engineer**
-<details>
-  <summary markdown='span'>What is CSF</summary>
-</details>
 
 <details>
   <summary>
@@ -35,11 +32,17 @@ Installation
   </summary>
   ##  Personal Information
   📍 **Address:** Ferhat paše, Sokolovića, 71210, Sarajevo, Bosnia and Herzegovina  
+  
   📧 **Email:** [a.enan7140@gmail.com](mailto:a.enan7140@gmail.com)  
+  
   📞 **Phone:** (+387) 62475928  
+  
   🔗 **GitHub:** [github.com/AbdelrahmanEnan](https://github.com/AbdelrahmanEnan)  
+  
   🔗 **LinkedIn:** [linkedin.com/in/abdelrahman-enan-7405b6161](https://www.linkedin.com/in/abdelrahman-enan-7405b6161)  
+  
   🎂 **Date of Birth:** 14/07/1997  
+  
   🌍 **Nationality:** Egyptian  
 </details>
 
