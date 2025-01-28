@@ -34,8 +34,9 @@ Here are some ideas to get you started:
 ---
 
 <details>
-  <summary>## 🏢 Work Experience</summary>
+  <summary>🏢 Work Experience</summary>
   
+  ## 🏢 Work Experience
   ### **Student Assistant**  
   📅 **08/2021 – 02/2022**  
   🏛️ **IUS, Sarajevo, Bosnia and Herzegovina**  
@@ -52,8 +53,9 @@ Here are some ideas to get you started:
 ---
 
 <details>
-  <summary>## 🎓 Education & Training</summary>
+  <summary>🎓 Education & Training</summary>
 
+  ## 🎓 Education & Training
   ### **MA in International Business**  
   📅 **10/2023 – Present**  
   🏛️ **International University of Sarajevo**  
@@ -91,8 +93,9 @@ Here are some ideas to get you started:
 ---
 
 <details>
-  <summary>## 💻 Digital Skills</summary>
+  <summary>💻 Digital Skills</summary>
 
+  ## 💻 Digital Skills
   ### **3D Modeling**
   - Google SketchUp (Good Knowledge)
   - Autodesk AutoCAD (Optimal Knowledge)
@@ -118,7 +121,8 @@ Here are some ideas to get you started:
 ---
 
 <details>
-  <summary>## 🤝 Interpersonal Skills</summary>
+  <summary>🤝 Interpersonal Skills</summary>
+  ## 🤝 Interpersonal Skills
   - Problem-Solving
   - Aspiration to Learn
   - Leadership
