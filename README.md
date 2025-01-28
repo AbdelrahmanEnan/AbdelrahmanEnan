@@ -86,6 +86,8 @@ Here are some ideas to get you started:
 
 <details>
   <summary>## 🗣 Language Skills</summary>
+
+  ## 🗣 Language Skills
   - **Mother Tongue:** Arabic  
   - **Other Languages:** English (B2)  
 </details>
@@ -122,6 +124,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>🤝 Interpersonal Skills</summary>
+  
   ## 🤝 Interpersonal Skills
   - Problem-Solving
   - Aspiration to Learn
