@@ -14,29 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Abdelrahman Enan
+# Abdelrahman Enan
 **Mechanical Engineer**
-# Personal Information
+<details>
+  <summary>##  Personal Information</summary>
+  📍 **Address:** Ferhat paše, Sokolovića, 71210, Sarajevo, Bosnia and Herzegovina  
+  📧 **Email:** [a.enan7140@gmail.com](mailto:a.enan7140@gmail.com)  
+  📞 **Phone:** (+387) 62475928  
+  🔗 **GitHub:** [github.com/AbdelrahmanEnan](https://github.com/AbdelrahmanEnan)  
+  🔗 **LinkedIn:** [linkedin.com/in/abdelrahman-enan-7405b6161](https://www.linkedin.com/in/abdelrahman-enan-7405b6161)  
+  🎂 **Date of Birth:** 14/07/1997  
+  🌍 **Nationality:** Egyptian  
+</details>
 
-📍 **Address:** Ferhat paše, Sokolovića, 71210, Sarajevo, Bosnia and Herzegovina  
-📧 **Email:** [a.enan7140@gmail.com](mailto:a.enan7140@gmail.com)  
-📞 **Phone:** (+387) 62475928  
-🔗 **GitHub:** [github.com/AbdelrahmanEnan](https://github.com/AbdelrahmanEnan)  
-🔗 **LinkedIn:** [linkedin.com/in/abdelrahman-enan-7405b6161](https://www.linkedin.com/in/abdelrahman-enan-7405b6161)  
-🎂 **Date of Birth:** 14/07/1997  
-🌍 **Nationality:** Egyptian  
+
+
 
 ---
 
-# Work Experience
+## 🏢 Work Experience
 
-## Student Assistant  
+### **Student Assistant**  
 📅 **08/2021 – 02/2022**  
 🏛️ **IUS, Sarajevo, Bosnia and Herzegovina**  
 - Conducted tutorial sessions.
 - Assisted students with academic work.
 
-## Internship Engineer  
+### **Internship Engineer**  
 📅 **02/2021 – 06/2021**  
 🏛️ **IUS (RDC), Sarajevo, Bosnia and Herzegovina**  
 - Computer-aided design, engineering, and manufacturing using SolidWorks and Cura Software.
@@ -44,68 +48,68 @@ Here are some ideas to get you started:
 
 ---
 
-# Education & Training
+## 🎓 Education & Training
 
-## MA in International Business  
+### **MA in International Business**  
 📅 **10/2023 – Present**  
 🏛️ **International University of Sarajevo**  
 🌐 [ius.edu.ba](http://www.ius.edu.ba/)
 
-## MSc in Mechanical Engineering  
+### **MSc in Mechanical Engineering**  
 📅 **09/2021 – 07/2023**  
 🏛️ **International University of Sarajevo**  
 🌐 [ius.edu.ba](http://www.ius.edu.ba/)
 
-## BSc in Mechanical Engineering  
+### **BSc in Mechanical Engineering**  
 📅 **09/2017 – 07/2021**  
 🏛️ **International University of Sarajevo**  
 🌐 [ius.edu.ba](http://www.ius.edu.ba/)
 
-## Nanodegree Program in Data Analysis  
+### **Nanodegree Program in Data Analysis**  
 📅 **September 2022**  
 🏛️ **Udacity**  
 🌐 [udacity.com](https://www.udacity.com/)
 
-## Nanodegree Program in Machine Learning  
+### **Nanodegree Program in Machine Learning**  
 📅 **September 2022**  
 🏛️ **Udacity**  
 🌐 [udacity.com](https://www.udacity.com/)
 
 ---
 
-# Language Skills
+## 🗣 Language Skills
 
 - **Mother Tongue:** Arabic  
 - **Other Languages:** English (B2)  
 
 ---
 
-# Digital Skills
+## 💻 Digital Skills
 
-## 3D Modeling
+### **3D Modeling**
 - Google SketchUp (Good Knowledge)
 - Autodesk AutoCAD (Optimal Knowledge)
 - Autodesk Revit
 
-## Programming
+### **Programming**
 - C++, Python, R
 - Arduino
 - MATLAB & Simulink
 
-## CFD & FEA
+### **CFD & FEA**
 - SimScale (CFD and FEA)
 - COMSOL Multiphysics 5.0
 - Altair Hyperworks FEA
 - DS SolidWorks (Optimal Knowledge)
 - AbaqusCAE (Dassault Systèmes)
 
-## Office Tools
+### **Office Tools**
 - Microsoft Office Suite
 - Microsoft Excel
 
 ---
 
-# Interpersonal Skills
+## 🤝 Interpersonal Skills
 
 - Problem-Solving
 - Aspiration to Learn
