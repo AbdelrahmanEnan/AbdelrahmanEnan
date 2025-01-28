@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 ---
 
 <details>
-  <summary>## 🗣 Language Skills</summary>
+  <summary>🗣 Language Skills</summary>
 
   ## 🗣 Language Skills
   - **Mother Tongue:** Arabic  
