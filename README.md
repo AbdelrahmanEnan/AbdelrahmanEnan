@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 # Abdelrahman Enan
 **Mechanical Engineer**
+
 I am a fresh graduate Mechanical Engineer from the International University of Sarajevo with a Master's degree. I have excellent 3D design and modeling skills in AutoCAD and SOLIDWORKS, done several CFD projects during my studies in External Ventilation in urban configuration as well as transformers stations, and programming knowledge in C++, R and Python (Machine Learning which is my new passion). As for my personal skills, I am dedicated and always motivated to learn and solve problems. I can work efficiently either individually or as a team member. Interested in working in engineering design (3D modelling), and/or fluid mechanics fields.
 <details>
   <summary>📌 Personal Information</summary>
