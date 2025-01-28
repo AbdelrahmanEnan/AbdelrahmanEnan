@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 **Mechanical Engineer**
 
 <details>
-  <summary>## 📌 Personal Information</summary>
-
+  <summary>📌 Personal Information</summary>
+## 📌 Personal Information
   📍 **Address:** Ferhat paše, Sokolovića, 71210, Sarajevo, Bosnia and Herzegovina  
   📧 **Email:** [a.enan7140@gmail.com](mailto:a.enan7140@gmail.com)  
   📞 **Phone:** (+387) 62475928  
